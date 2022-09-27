@@ -1,4 +1,3 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLV5Geut9rpUynmk9Gp8QQTDimNu9aJE40hA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Tanmay Dandile</h1>
 <h3 align="center">A web developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
